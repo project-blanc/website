@@ -1,0 +1,36 @@
+{
+  "producer_account_name": "project blanc",
+  "org": {
+    "candidate_name": "ProjectBlanc",
+    "website": "https://projectblanc.ch",
+    "code_of_conduct":"",
+    "ownership_disclosure":"https://projectblanc.ch/ownership.html",
+    "email":"contact@projectblanc.ch",
+    "github_user":"projectblanc",
+    "branding":{
+      "logo_256":"https://projectblanc.ch/apple-touch-icon.png"
+    },
+    "location": {
+      "name": "Zug",
+      "country": "Switzerland",
+      "latitude": 47.17330969623761,
+      "longitude": 8.512851677853623
+    },
+    "social": {
+      "twitter": "projectblanc_ch",
+      "github":"project-blanc"
+    }
+  },
+  "nodes": [
+    {
+      "location": {
+        "name": "OVH-Roubaix",
+        "country": "France",
+        "latitude": 50.6927106580959,
+        "longitude": 3.2000245814873334
+      },
+      "full": true,
+      "node_type": "producer"
+    }
+  ]
+}
