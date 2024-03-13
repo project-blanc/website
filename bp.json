@@ -2,13 +2,13 @@
   "producer_account_name": "project blanc",
   "org": {
     "candidate_name": "ProjectBlanc",
-    "website": "https://projectblanc.ch",
+    "website": "https://blanc.group",
     "code_of_conduct":"",
-    "ownership_disclosure":"https://projectblanc.ch/ownership.html",
-    "email":"contact@projectblanc.ch",
+    "ownership_disclosure":"https://blanc.group/ownership.html",
+    "email":"contact@blanc.group",
     "github_user":"projectblanc",
     "branding":{
-      "logo_256":"https://projectblanc.ch/apple-touch-icon.png"
+      "logo_256":"https://blanc.group/apple-touch-icon.png"
     },
     "location": {
       "name": "Zug",
